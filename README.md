@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about HTML, CSS and JS
 - 📫 How to reach me: valerio.maiolini@gmail.com
 
