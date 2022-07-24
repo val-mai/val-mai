@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Valerio Maiolini, junior front-end and data analyst
+### Hi there 👋 I'm Valerio Maiolini, junior front-end daveloper and data analyst
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about R, Javascript and Angular
