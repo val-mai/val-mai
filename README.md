@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Valerio Maiolini, junior full-stack developer and data analyst
 
-- 🌱 I’m currently divide in Spring Boot
+- 🌱 I’m currently dived in Spring Boot
 - 💬 Ask me about R, Angular and Java
 - 📫 How to reach me: valerio.maiolini@gmail.com
 
