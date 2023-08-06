@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Valerio Maiolini, junior full-stack developer and data analyst
+### Hi there 👋 I'm Valerio Maiolini, full-stack developer and data analyst
 
-- 🌱 I’m currently dived in Spring Boot
-- 💬 Ask me about R, Angular and Java
+- 🌱 I’m currently dived in Cloud Architecture
+- 💬 Ask me about R, Angular, Java and SpringBoot
 - 📫 How to reach me: valerio.maiolini@gmail.com
 
 #### Languages and Tools:
