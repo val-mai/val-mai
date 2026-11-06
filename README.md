@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Valerio Maiolini, software developer and data analyst
+### Hi there 👋 I'm Valerio Maiolini, software & devops engineer
 
 - 🌱 I’m currently dived in Cloud Architecture
 - 💬 Ask me about Java, SpringBoot, Angular and R
